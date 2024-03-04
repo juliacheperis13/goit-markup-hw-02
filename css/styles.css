@@ -126,3 +126,7 @@ footer p {
   letter-spacing: 0.02em;
   color: var(--slate);
 }
+
+.hidden {
+  display: none;
+}
